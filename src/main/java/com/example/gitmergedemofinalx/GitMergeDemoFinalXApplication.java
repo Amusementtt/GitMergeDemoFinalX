@@ -66,4 +66,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void fourteen(){
+
+    }
+
 }
