@@ -80,4 +80,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void sevenTeen(){
+
+    }
+
 }
