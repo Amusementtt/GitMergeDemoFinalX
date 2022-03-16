@@ -62,4 +62,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void thirteen(){
+
+    }
+
 }
