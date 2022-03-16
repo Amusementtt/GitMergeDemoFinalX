@@ -11,4 +11,16 @@ public class GitMergeDemoFinalXApplication {
         System.out.println("111");
     }
 
+    public void testOne(){
+
+    }
+
+    public void testTwo(){
+
+    }
+
+    public void testThree(){
+
+    }
+
 }
