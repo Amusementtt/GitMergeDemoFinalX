@@ -57,4 +57,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void testTwelve(){
+
+    }
+
 }
