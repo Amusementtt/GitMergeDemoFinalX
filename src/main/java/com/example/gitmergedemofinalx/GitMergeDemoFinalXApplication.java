@@ -44,4 +44,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void testNine(){
+
+    }
+
 }
