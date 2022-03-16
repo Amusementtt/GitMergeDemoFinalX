@@ -23,4 +23,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void testFour(){
+
+    }
+
 }
