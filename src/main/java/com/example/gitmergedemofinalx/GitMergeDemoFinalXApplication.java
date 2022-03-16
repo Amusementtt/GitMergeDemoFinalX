@@ -49,4 +49,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void testTen(){
+
+    }
+
 }
