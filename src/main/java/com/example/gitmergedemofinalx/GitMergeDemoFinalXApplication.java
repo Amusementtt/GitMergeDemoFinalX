@@ -40,4 +40,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void testEight(){
+
+    }
+
 }
