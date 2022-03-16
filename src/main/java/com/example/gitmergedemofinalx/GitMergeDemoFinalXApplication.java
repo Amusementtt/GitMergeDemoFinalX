@@ -84,4 +84,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void eighteen(){
+
+    }
+
 }
