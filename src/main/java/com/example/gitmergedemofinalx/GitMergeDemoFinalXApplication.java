@@ -10,6 +10,7 @@ public class GitMergeDemoFinalXApplication {
         SpringApplication.run(GitMergeDemoFinalXApplication.class, args);
         System.out.println("111");
         System.out.println("222");
+        System.out.println("333");
     }
 
     public void testOne(){
