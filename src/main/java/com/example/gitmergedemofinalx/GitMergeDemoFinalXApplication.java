@@ -31,4 +31,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void testSix(){
+
+    }
+
 }
