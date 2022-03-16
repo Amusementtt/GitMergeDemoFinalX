@@ -10,4 +10,8 @@ public class GitMergeDemoFinalXApplication {
         SpringApplication.run(GitMergeDemoFinalXApplication.class, args);
     }
 
+    public void testOne(){
+
+    }
+
 }
