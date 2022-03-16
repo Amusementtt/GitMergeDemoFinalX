@@ -18,4 +18,8 @@ public class GitMergeDemoFinalXApplication {
 
     }
 
+    public void testThree(){
+
+    }
+
 }
